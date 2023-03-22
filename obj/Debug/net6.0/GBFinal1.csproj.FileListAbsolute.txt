@@ -1,0 +1,15 @@
+C:\Users\Eduard\Desktop\GB\GBFinal1\bin\Debug\net6.0\GBFinal1.exe
+C:\Users\Eduard\Desktop\GB\GBFinal1\bin\Debug\net6.0\GBFinal1.deps.json
+C:\Users\Eduard\Desktop\GB\GBFinal1\bin\Debug\net6.0\GBFinal1.runtimeconfig.json
+C:\Users\Eduard\Desktop\GB\GBFinal1\bin\Debug\net6.0\GBFinal1.dll
+C:\Users\Eduard\Desktop\GB\GBFinal1\bin\Debug\net6.0\GBFinal1.pdb
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.csproj.AssemblyReference.cache
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.AssemblyInfoInputs.cache
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.AssemblyInfo.cs
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.dll
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\refint\GBFinal1.dll
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.pdb
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\GBFinal1.genruntimeconfig.cache
+C:\Users\Eduard\Desktop\GB\GBFinal1\obj\Debug\net6.0\ref\GBFinal1.dll
