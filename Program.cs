@@ -2,29 +2,31 @@
 3 символа. Первоначальний массив можно ввести с клавиатуры или задать на страрте выаполнения алгоритма. При решении 
 не рекомендуется использовать колекциями, лучше обойтись исклюбчительно массивами.*/
 
+
 using System;
 using static System.Console;
 
 Clear();
 
-string[] array1 = new string[8] {"Привет", "167", "Hi", "Welcome", ":)", "Russia", "Kazan", "356"};
-string[] array2 = new string[array1.Length];
+string[] array = new string[8] {"Привет", "167", "Hi", "Wel", ":)", "Russia", "Kazan", "356"};
 
-ChangeArray(array1, array2);
-PrintArray(array1);
-PrintArray(array2);
+PrintArray(array);
+WriteLine();
+PrintArray(ChangeArray(array));
 
-void ChangeArray(string[] array1, string[] array2)
+string[] ChangeArray(string[] array)
 {
+    string[] res = new string[array.Length];
     int count = 0;
-    for (int i = 0; i < array1.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-    if(array1[i].Length <= 3)
+    if(array[i].Length <= 3)
         {
-        array2[count] = array1[i];
+        res[count] = array[i];
         count++;
         }
     }
+    return res;
 }
 void PrintArray(string[] array)
 {
